@@ -8,4 +8,6 @@ git log
 
 git branch
 
-git branch -b newBranchName
+git checkout branchName
+
+git branch newBranchName
