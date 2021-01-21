@@ -7,3 +7,5 @@ git commit -m "message"
 git log
 
 git branch
+
+git branch -b newBranchName
