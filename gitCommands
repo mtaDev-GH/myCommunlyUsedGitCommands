@@ -4,16 +4,22 @@ git status
 
 git add .
 
-git commit -m "message"
+git commit -m "<message>"
 
 git log
 
 git branch
 
-git checkout branchName
+git checkout <branchName>
 
-git branch newBranchName
+git branch <newBranchName>
 
-git checkout -b newBranchName
+git checkout -b <newBranchName>
 
 git remote
+
+git remote add <name> <url>
+
+git push
+
+git push -u <name> <remoteBranchName>
