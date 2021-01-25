@@ -29,3 +29,5 @@ git log --all --oneline --graph
 git branch -u <localLabelForRemoteRepo>/<remoteBranchName>
 
 git log --graph --all --decorate --simplify-by-decoration
+
+git branch -vv
