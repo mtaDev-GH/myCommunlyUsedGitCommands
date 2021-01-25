@@ -15,3 +15,5 @@ git checkout branchName
 git branch newBranchName
 
 git checkout -b newBranchName
+
+git remote
