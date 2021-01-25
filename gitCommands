@@ -35,3 +35,5 @@ git branch -vv
 git log --graph --all --decorate --oneline
 
 git merge <branchToMergeFrom>
+
+git fetch --all
