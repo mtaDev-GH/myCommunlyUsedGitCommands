@@ -23,3 +23,5 @@ git remote add <localLabelForRemoteRepo> <url>
 git push
 
 git push -u <localLabelForRemoteRepo> <remoteBranchName>
+
+git log --all --oneline --graph
