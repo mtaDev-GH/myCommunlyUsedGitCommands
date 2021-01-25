@@ -33,3 +33,5 @@ git log --graph --all --decorate --simplify-by-decoration
 git branch -vv
 
 git log --graph --all --decorate --oneline
+
+git merge <branchToMergeFrom>
