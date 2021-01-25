@@ -18,8 +18,8 @@ git checkout -b <newBranchName>
 
 git remote
 
-git remote add <name> <url>
+git remote add <localLabelForRemoteRepo> <url>
 
 git push
 
-git push -u <name> <remoteBranchName>
+git push -u <localLabelForRemoteRepo> <remoteBranchName>
