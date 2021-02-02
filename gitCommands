@@ -39,3 +39,5 @@ git merge <branchToMergeFrom>
 git fetch --all
 
 git restore .
+
+git checkout .
