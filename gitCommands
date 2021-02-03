@@ -44,6 +44,6 @@ git checkout .
 
 git tag
 
-git tag -a tagName -m "message"
+git tag -a <tagName> -m "message"
 
-git show tagName
+git show <tagName>
