@@ -41,3 +41,5 @@ git fetch --all
 git restore .
 
 git checkout .
+
+git tag
