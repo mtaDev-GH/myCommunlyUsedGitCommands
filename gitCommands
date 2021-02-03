@@ -43,3 +43,7 @@ git restore .
 git checkout .
 
 git tag
+
+git tag -a tagName -m "message"
+
+git show tagName
