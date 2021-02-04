@@ -56,3 +56,7 @@ git branch --delete --remotes <remote>/<branch>
 
 # Delete multiple obsolete remote-tracking branches
 git fetch <remote> --prune
+
+git push origin --tags
+
+git push origin <tagName>
