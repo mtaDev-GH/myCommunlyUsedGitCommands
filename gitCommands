@@ -47,3 +47,5 @@ git tag
 git tag -a <tagName> -m "message"
 
 git show <tagName>
+
+git remote rename <old> <new>
