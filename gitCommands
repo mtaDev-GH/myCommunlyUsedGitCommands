@@ -51,3 +51,8 @@ git show <tagName>
 git remote rename <old> <new>
 
 git remote remove <name>
+
+git branch --delete --remotes <remote>/<branch>
+
+# Delete multiple obsolete remote-tracking branches
+git fetch <remote> --prune
