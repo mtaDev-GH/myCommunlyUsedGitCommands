@@ -64,3 +64,5 @@ git push origin <tagName>
 git branch --all
 
 git pull --all
+
+git tag --delete <tagname>
