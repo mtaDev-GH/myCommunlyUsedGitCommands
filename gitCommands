@@ -66,3 +66,7 @@ git branch --all
 git pull --all
 
 git tag --delete <tagname>
+
+git branch -m <oldname> <newname>
+
+git branch -m <newname>
