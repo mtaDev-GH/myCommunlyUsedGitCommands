@@ -70,3 +70,5 @@ git tag --delete <tagname>
 git branch -m <oldname> <newname>
 
 git branch -m <newname>
+
+git push --delete <origin> <tagname>
