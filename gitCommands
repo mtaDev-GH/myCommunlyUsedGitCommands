@@ -72,3 +72,5 @@ git branch -m <oldname> <newname>
 git branch -m <newname>
 
 git push --delete <origin> <tagname>
+
+git branch --set-upstream <remote-branch>
